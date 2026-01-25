@@ -49,9 +49,9 @@ git submodule update --remote --merge
 ├── media/
 │   └── fonts/          # Fuentes Nunito Sans y Ubuntu Mono/Nerd Font Mono
 ├── styles/
-│   ├── themes/         # Hojas de estilo .qss (light/dark)
-│   └── palette.json    # Definición maestra de colores (Hex)
-├── releases/           # Capturas soficiales para documentación (.deb)
+│   ├── themes/         # Hojas de estilo .qss
+│   └── palette.json    # Definición maestra de colores
+├── releases/           # Capturas soficiales para documentación
 └── README.md
 
 ```
@@ -60,9 +60,9 @@ git submodule update --remote --merge
 
 Para mantener la agilidad del repositorio, la documentación detallada se ha segmentado:
 
-* **Catálogo de Iconos ([ICONS.md](https://github.com/RQT2/rqt2-docs/github/components/ICONS.md))**: Tabla completa de iconos, comandos asociados y sus roles.
-* **Identidad de Marca ([BRANDING.md)](https://github.com/RQT2/rqt2-docs/github/components/BRANDING.md))**: Guía de uso del isotipo, márgenes de seguridad para iconos y exportación.
-* **Paleta Detallada ([PALETTE.md)](https://github.com/RQT2/rqt2-docs/github/components/PALETTE.md))**: Muestrario completo de colores para temas Claro y Oscuro.
+* **Catálogo de Iconos ([ICONS.md](https://github.com/RQT2/rqt2-docs/blob/main/github/components/ICONS.md))**: Tabla completa de iconos, comandos asociados y sus roles.
+* **Identidad de Marca ([BRANDING.md)](https://github.com/RQT2/rqt2-docs/blob/main/github/components/BRANDING.md))**: Guía de uso del isotipo, márgenes de seguridad para iconos y exportación.
+* **Paleta Detallada ([PALETTE.md)](https://github.com/RQT2/rqt2-docs/blob/main/github/components/PALETTE.md))**: Muestrario completo de colores para temas Claro y Oscuro.
 
 ## Tipografía
 

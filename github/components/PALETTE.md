@@ -15,7 +15,7 @@ Sistema de colores de los diferentes componentes de la interfaz usando como base
 | Estado | Color | Uso |
 | :--- | :--- | :--- |
 | **Success / Running** | ![#068989](https://placehold.co/16x16/068989/068989.png) `#068989` | Proceso en ejecución. |
-| **Warning / Debug** | ![#e5a436](https://placehold.co/16x16/e5a436/e5a436.png) `#e5a436` | Proceso en curso. |
+| **Warning / Debug** | ![#e5a436](https://placehold.co/16x16/e5a436/e5a436.png) `#e5a436` |Alertas. |
 | **Error / Critical** | ![#ff4f5e](https://placehold.co/16x16/ff4f5e/ff4f5e.png) `#ff4f5e` | Fallo al ejecutar el proceso, error de sintaxis. |
 | **Neutral ** | ![#000000](https://placehold.co/16x16/000000/000000.png) `#000000` | Default. |
 
@@ -23,7 +23,7 @@ Sistema de colores de los diferentes componentes de la interfaz usando como base
 | Estado | Color | Uso |
 | :--- | :--- | :--- |
 | **Success / Running** |![#3fe1b0](https://placehold.co/16x16/3fe1b0/3fe1b0.png) `#3fe1b0` | Proceso en ejecución. |
-| **Warning / Debug** | ![#ffbd4f](https://placehold.co/16x16/ffbd4f/ffbd4f.png) `#ffbd4f` | Proceso en curso. |
+| **Warning / Debug** | ![#ffbd4f](https://placehold.co/16x16/ffbd4f/ffbd4f.png) `#ffbd4f` | Alertas. |
 | **Error / Critical** | ![#ff4f5e](https://placehold.co/16x16/ff4f5e/ff4f5e.png) `#ff4f5e` | Fallo al ejecutar el proceso, error de sintaxis. |
 | **Neutral ** | ![#ffffff](https://placehold.co/16x16/ffffff/ffffff.png) `#ffffff` | Default. |
 

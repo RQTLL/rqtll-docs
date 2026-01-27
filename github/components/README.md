@@ -1,9 +1,9 @@
 # rqt2-components
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/branding/logo-main-light.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/branding/logo-main-dark.svg">
-  <img alt="RQT2 Logo" src="./assets/branding/logo-main-color.svg" width="50px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RQT2/rqt2-components/blob/main/assets/branding/logo-main-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RQT2/rqt2-components/blob/main/assets/branding/logo-main-dark.svg">
+  <img alt="RQT2 Logo" src="https://github.com/RQT2/rqt2-components/blob/main/assets/branding/logo-main-color.svg" width="50px">
 </picture>
 
 Sistema de diseño y librería de recursos visuales para **[RQT2](https://github.com/RQT2)**.
